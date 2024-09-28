@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\Github\\DSRS\\DSRS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|d:\\university\\github\\dsrs\\dsrs\\dsrs\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|solutionrelative:dsrs\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|D:\\University\\Github\\DSRS\\DSRS\\dsrs\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|solutionrelative:dsrs\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|D:\\University\\Github\\DSRS\\DSRS\\dsrs\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|solutionrelative:dsrs\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|D:\\University\\Github\\DSRS\\DSRS\\dsrs\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|solutionrelative:dsrs\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|D:\\University\\Github\\DSRS\\DSRS\\dsrs\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|solutionrelative:dsrs\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|D:\\University\\Github\\DSRS\\DSRS\\dsrs\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|solutionrelative:dsrs\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|D:\\University\\Github\\DSRS\\DSRS\\dsrs\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|solutionrelative:dsrs\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|D:\\University\\Github\\DSRS\\DSRS\\dsrs\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|solutionrelative:dsrs\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|D:\\University\\Github\\DSRS\\DSRS\\dsrs\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|solutionrelative:dsrs\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|D:\\University\\Github\\DSRS\\DSRS\\dsrs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|solutionrelative:dsrs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|D:\\University\\Github\\DSRS\\DSRS\\dsrs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|solutionrelative:dsrs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|d:\\university\\github\\dsrs\\dsrs\\dsrs\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|solutionrelative:dsrs\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|D:\\University\\Github\\DSRS\\DSRS\\dsrs\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|solutionrelative:dsrs\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|D:\\University\\Github\\DSRS\\DSRS\\dsrs\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|solutionrelative:dsrs\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|d:\\university\\github\\dsrs\\dsrs\\dsrs\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|solutionrelative:dsrs\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|d:\\university\\github\\dsrs\\dsrs\\dsrs\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|solutionrelative:dsrs\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|D:\\University\\Github\\DSRS\\DSRS\\dsrs\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|solutionrelative:dsrs\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|D:\\University\\Github\\DSRS\\DSRS\\dsrs\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D362B18-3084-43E8-A71D-E387084EDAD9}|DSRS\\DSRS.csproj|solutionrelative:dsrs\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "D:\\University\\Github\\DSRS\\DSRS\\DSRS\\DataBase.cs",
+              "RelativeDocumentMoniker": "DSRS\\DataBase.cs",
+              "ToolTip": "D:\\University\\Github\\DSRS\\DSRS\\DSRS\\DataBase.cs",
+              "RelativeToolTip": "DSRS\\DataBase.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T05:44:28.622Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "D:\\University\\Github\\DSRS\\DSRS\\DSRS\\Form2.cs",
+              "RelativeDocumentMoniker": "DSRS\\Form2.cs",
+              "ToolTip": "D:\\University\\Github\\DSRS\\DSRS\\DSRS\\Form2.cs",
+              "RelativeToolTip": "DSRS\\Form2.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAiwDIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:51:24.447Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form9.cs",
+              "DocumentMoniker": "D:\\University\\Github\\DSRS\\DSRS\\DSRS\\Form9.cs",
+              "RelativeDocumentMoniker": "DSRS\\Form9.cs",
+              "ToolTip": "D:\\University\\Github\\DSRS\\DSRS\\DSRS\\Form9.cs",
+              "RelativeToolTip": "DSRS\\Form9.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T06:30:18.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataBaseConnection.cs",
+              "DocumentMoniker": "D:\\University\\Github\\DSRS\\DSRS\\DSRS\\DataBaseConnection.cs",
+              "RelativeDocumentMoniker": "DSRS\\DataBaseConnection.cs",
+              "ToolTip": "D:\\University\\Github\\DSRS\\DSRS\\DSRS\\DataBaseConnection.cs",
+              "RelativeToolTip": "DSRS\\DataBaseConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAADdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T05:45:38.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "D:\\University\\Github\\DSRS\\DSRS\\DSRS\\Form3.cs",
+              "RelativeDocumentMoniker": "DSRS\\Form3.cs",
+              "ToolTip": "D:\\University\\Github\\DSRS\\DSRS\\DSRS\\Form3.cs",
+              "RelativeToolTip": "DSRS\\Form3.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAIwHIAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:30:27.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form7.cs",
+              "DocumentMoniker": "D:\\University\\Github\\DSRS\\DSRS\\DSRS\\Form7.cs",
+              "RelativeDocumentMoniker": "DSRS\\Form7.cs",
+              "ToolTip": "D:\\University\\Github\\DSRS\\DSRS\\DSRS\\Form7.cs",
+              "RelativeToolTip": "DSRS\\Form7.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:10:52.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form7.cs [Design]",
+              "DocumentMoniker": "D:\\University\\Github\\DSRS\\DSRS\\DSRS\\Form7.cs",
+              "RelativeDocumentMoniker": "DSRS\\Form7.cs",
+              "ToolTip": "D:\\University\\Github\\DSRS\\DSRS\\DSRS\\Form7.cs [Design]",
+              "RelativeToolTip": "DSRS\\Form7.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:27:51.643Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form8.cs [Design]",
+              "DocumentMoniker": "D:\\University\\Github\\DSRS\\DSRS\\DSRS\\Form8.cs",
+              "RelativeDocumentMoniker": "DSRS\\Form8.cs",
+              "ToolTip": "D:\\University\\Github\\DSRS\\DSRS\\DSRS\\Form8.cs [Design]",
+              "RelativeToolTip": "DSRS\\Form8.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T07:26:12.044Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form9.cs [Design]",
+              "DocumentMoniker": "D:\\University\\Github\\DSRS\\DSRS\\DSRS\\Form9.cs",
+              "RelativeDocumentMoniker": "DSRS\\Form9.cs",
+              "ToolTip": "D:\\University\\Github\\DSRS\\DSRS\\DSRS\\Form9.cs [Design]",
+              "RelativeToolTip": "DSRS\\Form9.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T07:39:14.058Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\University\\Github\\DSRS\\DSRS\\DSRS\\Form1.cs",
+              "RelativeDocumentMoniker": "DSRS\\Form1.cs",
+              "ToolTip": "D:\\University\\Github\\DSRS\\DSRS\\DSRS\\Form1.cs [Design]",
+              "RelativeToolTip": "DSRS\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:07:20.154Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\University\\Github\\DSRS\\DSRS\\DSRS\\Form2.cs",
+              "RelativeDocumentMoniker": "DSRS\\Form2.cs",
+              "ToolTip": "D:\\University\\Github\\DSRS\\DSRS\\DSRS\\Form2.cs [Design]",
+              "RelativeToolTip": "DSRS\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:07:16.966Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "D:\\University\\Github\\DSRS\\DSRS\\DSRS\\Form3.cs",
+              "RelativeDocumentMoniker": "DSRS\\Form3.cs",
+              "ToolTip": "D:\\University\\Github\\DSRS\\DSRS\\DSRS\\Form3.cs [Design]",
+              "RelativeToolTip": "DSRS\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:20:14.376Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form6.cs [Design]",
+              "DocumentMoniker": "D:\\University\\Github\\DSRS\\DSRS\\DSRS\\Form6.cs",
+              "RelativeDocumentMoniker": "DSRS\\Form6.cs",
+              "ToolTip": "D:\\University\\Github\\DSRS\\DSRS\\DSRS\\Form6.cs [Design]",
+              "RelativeToolTip": "DSRS\\Form6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T06:15:20.248Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "D:\\University\\Github\\DSRS\\DSRS\\DSRS\\Form5.cs",
+              "RelativeDocumentMoniker": "DSRS\\Form5.cs",
+              "ToolTip": "D:\\University\\Github\\DSRS\\DSRS\\DSRS\\Form5.cs [Design]",
+              "RelativeToolTip": "DSRS\\Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T17:14:48.416Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "D:\\University\\Github\\DSRS\\DSRS\\DSRS\\Form4.cs",
+              "RelativeDocumentMoniker": "DSRS\\Form4.cs",
+              "ToolTip": "D:\\University\\Github\\DSRS\\DSRS\\DSRS\\Form4.cs [Design]",
+              "RelativeToolTip": "DSRS\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:36:45.486Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "D:\\University\\Github\\DSRS\\DSRS\\DSRS\\Form5.cs",
+              "RelativeDocumentMoniker": "DSRS\\Form5.cs",
+              "ToolTip": "D:\\University\\Github\\DSRS\\DSRS\\DSRS\\Form5.cs",
+              "RelativeToolTip": "DSRS\\Form5.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:08:38.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "D:\\University\\Github\\DSRS\\DSRS\\DSRS\\Form4.cs",
+              "RelativeDocumentMoniker": "DSRS\\Form4.cs",
+              "ToolTip": "D:\\University\\Github\\DSRS\\DSRS\\DSRS\\Form4.cs",
+              "RelativeToolTip": "DSRS\\Form4.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAiwD4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T16:30:38.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\University\\Github\\DSRS\\DSRS\\DSRS\\Form1.cs",
+              "RelativeDocumentMoniker": "DSRS\\Form1.cs",
+              "ToolTip": "D:\\University\\Github\\DSRS\\DSRS\\DSRS\\Form1.cs",
+              "RelativeToolTip": "DSRS\\Form1.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA0wBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:53:07.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
