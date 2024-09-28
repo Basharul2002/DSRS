@@ -24,12 +24,14 @@ namespace DSRS
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            this.Hide();
+            Form8 form8 = new Form8();
+            form8.Show();
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            this.Show();
+            this.Hide();
             Form9 passengerDetails = new Form9();
             passengerDetails.Show();
         }
