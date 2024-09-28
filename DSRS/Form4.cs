@@ -65,8 +65,51 @@ namespace DSRS
             }
 
             string error;
-            //string query = "SELECT "
+            string query = $@"
+                            SELECT *
+                            FROM [Train Schedule] 
+                            WHERE 1=1 
+                            AND [From] = '{from_cb.Text}' 
+                            AND [To] = '{to_cb.Text}' 
+                            AND [Date] = '{date.Value.ToString("dd-MM-yyyy")}'";
+
+            if (class_cb.Text == "Sitting")
+                query += $" AND [Sitting Seat] >= {Int32.Parse(numberOfNumber_cb.Text)}";
             
+            else if (class_cb.Text == "Standing")           
+                query += $" AND [Standing Seat] >= {Int32.Parse(numberOfNumber_cb.Text)}";
+
+
+            // MessageBox.Show($"Date: {date.Value.ToString("dd-MM-yyyy")}");
+
+            DataSet dataSet = DataBase.DataAccess(query, out error);
+
+            if (!string.IsNullOrEmpty(error))
+            {
+                MessageBox.Show($"Class: From4 Function: ticket_booking_btn_Click \nError: {error}");
+                return;
+            }
+
+            if (dataSet.Tables[0].Rows.Count <= 0)
+            {
+                MessageBox.Show("No ticket found");
+                return;
+            }
+
+            int ticketPrice;
+
+            if (class_cb.Text == "Sitting")
+                ticketPrice = Int32.Parse(numberOfNumber_cb.Text) * Int32.Parse(dataSet.Tables[0].Rows[0]["Sitting Price"].ToString());
+            else
+                ticketPrice = Int32.Parse(numberOfNumber_cb.Text) * Int32.Parse(dataSet.Tables[0].Rows[0]["Standing Price"].ToString());
+
+
+            this.Hide();
+            Form5 form5 = new Form5(scheduleID: dataSet.Tables[0].Rows[0]["Id"].ToString(), customerID: this.customerID, seatType: class_cb.Text, NumberOfSeats: Int32.Parse(numberOfNumber_cb.Text), totalPrice: ticketPrice); 
+            form5.Show();
+
+            
+
         }
     }
 }

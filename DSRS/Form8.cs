@@ -165,7 +165,7 @@ namespace DSRS
             sitting_seat_tb.Text = dataSet.Tables[0].Rows[0]["Sitting Seat"].ToString();
             standing_seat_tb.Text = dataSet.Tables[0].Rows[0]["Standing Seat"].ToString();
             standing_ticket_price_tb.Text = dataSet.Tables[0].Rows[0]["Standing Price"].ToString();
-            sitting_price_tb.Text = dataSet.Tables[0].Rows[0]["Sitting Seat"].ToString();
+            sitting_price_tb.Text = dataSet.Tables[0].Rows[0]["Sitting Price"].ToString();
         }
 
         private void delete_btn_Click(object sender, EventArgs e)

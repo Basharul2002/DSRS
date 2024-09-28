@@ -33,7 +33,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.to_cb = new System.Windows.Forms.ComboBox();
             this.label4 = new System.Windows.Forms.Label();
-            this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
+            this.date = new System.Windows.Forms.DateTimePicker();
             this.ticket_booking_btn = new System.Windows.Forms.Button();
             this.from_cb = new System.Windows.Forms.ComboBox();
             this.label5 = new System.Windows.Forms.Label();
@@ -106,13 +106,14 @@
             this.label4.TabIndex = 9;
             this.label4.Text = "Date";
             // 
-            // dateTimePicker1
+            // date
             // 
-            this.dateTimePicker1.Location = new System.Drawing.Point(392, 383);
-            this.dateTimePicker1.Margin = new System.Windows.Forms.Padding(2);
-            this.dateTimePicker1.Name = "dateTimePicker1";
-            this.dateTimePicker1.Size = new System.Drawing.Size(183, 20);
-            this.dateTimePicker1.TabIndex = 10;
+            this.date.Format = System.Windows.Forms.DateTimePickerFormat.Short;
+            this.date.Location = new System.Drawing.Point(392, 383);
+            this.date.Margin = new System.Windows.Forms.Padding(2);
+            this.date.Name = "date";
+            this.date.Size = new System.Drawing.Size(183, 20);
+            this.date.TabIndex = 10;
             // 
             // ticket_booking_btn
             // 
@@ -217,7 +218,7 @@
             this.Controls.Add(this.class_cb);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.ticket_booking_btn);
-            this.Controls.Add(this.dateTimePicker1);
+            this.Controls.Add(this.date);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.to_cb);
             this.Controls.Add(this.label3);
@@ -240,7 +241,7 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.ComboBox to_cb;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.DateTimePicker dateTimePicker1;
+        private System.Windows.Forms.DateTimePicker date;
         private System.Windows.Forms.Button ticket_booking_btn;
         private System.Windows.Forms.ComboBox from_cb;
         private System.Windows.Forms.Label label5;
