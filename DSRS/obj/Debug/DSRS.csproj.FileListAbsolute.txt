@@ -54,7 +54,6 @@ D:\University\Github\DSRS\DSRS\DSRS\obj\Debug\DSRS.Form2.resources
 D:\University\Github\DSRS\DSRS\DSRS\obj\Debug\DSRS.Form3.resources
 D:\University\Github\DSRS\DSRS\DSRS\obj\Debug\DSRS.Form4.resources
 D:\University\Github\DSRS\DSRS\DSRS\obj\Debug\DSRS.Form5.resources
-D:\University\Github\DSRS\DSRS\DSRS\obj\Debug\DSRS.Form6.resources
 D:\University\Github\DSRS\DSRS\DSRS\obj\Debug\DSRS.Form7.resources
 D:\University\Github\DSRS\DSRS\DSRS\obj\Debug\DSRS.Form8.resources
 D:\University\Github\DSRS\DSRS\DSRS\obj\Debug\DSRS.Form9.resources

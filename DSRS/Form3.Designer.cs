@@ -43,7 +43,6 @@
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.confirm_password_txt = new System.Windows.Forms.TextBox();
-            this.login_btn = new System.Windows.Forms.Button();
             this.back_btn = new System.Windows.Forms.Button();
             this.label8 = new System.Windows.Forms.Label();
             this.gender_panel = new System.Windows.Forms.TextBox();
@@ -56,7 +55,7 @@
             // 
             this.registration_btn.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.registration_btn.Location = new System.Drawing.Point(302, 443);
-            this.registration_btn.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.registration_btn.Margin = new System.Windows.Forms.Padding(2);
             this.registration_btn.Name = "registration_btn";
             this.registration_btn.Size = new System.Drawing.Size(168, 37);
             this.registration_btn.TabIndex = 0;
@@ -67,7 +66,7 @@
             // name_txt
             // 
             this.name_txt.Location = new System.Drawing.Point(407, 119);
-            this.name_txt.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.name_txt.Margin = new System.Windows.Forms.Padding(2);
             this.name_txt.Multiline = true;
             this.name_txt.Name = "name_txt";
             this.name_txt.Size = new System.Drawing.Size(183, 24);
@@ -76,7 +75,7 @@
             // dob_txt
             // 
             this.dob_txt.Location = new System.Drawing.Point(407, 154);
-            this.dob_txt.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.dob_txt.Margin = new System.Windows.Forms.Padding(2);
             this.dob_txt.Multiline = true;
             this.dob_txt.Name = "dob_txt";
             this.dob_txt.Size = new System.Drawing.Size(183, 27);
@@ -85,7 +84,7 @@
             // nid_txt
             // 
             this.nid_txt.Location = new System.Drawing.Point(407, 228);
-            this.nid_txt.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.nid_txt.Margin = new System.Windows.Forms.Padding(2);
             this.nid_txt.Multiline = true;
             this.nid_txt.Name = "nid_txt";
             this.nid_txt.Size = new System.Drawing.Size(183, 27);
@@ -94,7 +93,7 @@
             // email_txt
             // 
             this.email_txt.Location = new System.Drawing.Point(407, 266);
-            this.email_txt.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.email_txt.Margin = new System.Windows.Forms.Padding(2);
             this.email_txt.Multiline = true;
             this.email_txt.Name = "email_txt";
             this.email_txt.Size = new System.Drawing.Size(183, 27);
@@ -103,7 +102,7 @@
             // number_txt
             // 
             this.number_txt.Location = new System.Drawing.Point(407, 302);
-            this.number_txt.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.number_txt.Margin = new System.Windows.Forms.Padding(2);
             this.number_txt.Multiline = true;
             this.number_txt.Name = "number_txt";
             this.number_txt.Size = new System.Drawing.Size(183, 27);
@@ -112,7 +111,7 @@
             // password_txt
             // 
             this.password_txt.Location = new System.Drawing.Point(407, 344);
-            this.password_txt.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.password_txt.Margin = new System.Windows.Forms.Padding(2);
             this.password_txt.Multiline = true;
             this.password_txt.Name = "password_txt";
             this.password_txt.Size = new System.Drawing.Size(183, 27);
@@ -199,28 +198,17 @@
             // confirm_password_txt
             // 
             this.confirm_password_txt.Location = new System.Drawing.Point(407, 382);
-            this.confirm_password_txt.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.confirm_password_txt.Margin = new System.Windows.Forms.Padding(2);
             this.confirm_password_txt.Multiline = true;
             this.confirm_password_txt.Name = "confirm_password_txt";
             this.confirm_password_txt.Size = new System.Drawing.Size(183, 27);
             this.confirm_password_txt.TabIndex = 15;
             // 
-            // login_btn
-            // 
-            this.login_btn.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.login_btn.Location = new System.Drawing.Point(84, 443);
-            this.login_btn.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
-            this.login_btn.Name = "login_btn";
-            this.login_btn.Size = new System.Drawing.Size(93, 37);
-            this.login_btn.TabIndex = 16;
-            this.login_btn.Text = "Login";
-            this.login_btn.UseVisualStyleBackColor = true;
-            // 
             // back_btn
             // 
             this.back_btn.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.back_btn.Location = new System.Drawing.Point(9, 10);
-            this.back_btn.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.back_btn.Margin = new System.Windows.Forms.Padding(2);
             this.back_btn.Name = "back_btn";
             this.back_btn.Size = new System.Drawing.Size(64, 32);
             this.back_btn.TabIndex = 17;
@@ -242,7 +230,7 @@
             // gender_panel
             // 
             this.gender_panel.Location = new System.Drawing.Point(407, 191);
-            this.gender_panel.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.gender_panel.Margin = new System.Windows.Forms.Padding(2);
             this.gender_panel.Multiline = true;
             this.gender_panel.Name = "gender_panel";
             this.gender_panel.Size = new System.Drawing.Size(183, 27);
@@ -252,7 +240,7 @@
             // 
             this.male_rb.AutoSize = true;
             this.male_rb.Location = new System.Drawing.Point(416, 196);
-            this.male_rb.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.male_rb.Margin = new System.Windows.Forms.Padding(2);
             this.male_rb.Name = "male_rb";
             this.male_rb.Size = new System.Drawing.Size(48, 17);
             this.male_rb.TabIndex = 20;
@@ -264,7 +252,7 @@
             // 
             this.female_rb.AutoSize = true;
             this.female_rb.Location = new System.Drawing.Point(469, 196);
-            this.female_rb.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.female_rb.Margin = new System.Windows.Forms.Padding(2);
             this.female_rb.Name = "female_rb";
             this.female_rb.Size = new System.Drawing.Size(59, 17);
             this.female_rb.TabIndex = 21;
@@ -276,7 +264,7 @@
             // 
             this.others_rb.AutoSize = true;
             this.others_rb.Location = new System.Drawing.Point(532, 196);
-            this.others_rb.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.others_rb.Margin = new System.Windows.Forms.Padding(2);
             this.others_rb.Name = "others_rb";
             this.others_rb.Size = new System.Drawing.Size(56, 17);
             this.others_rb.TabIndex = 22;
@@ -297,7 +285,6 @@
             this.Controls.Add(this.gender_panel);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.back_btn);
-            this.Controls.Add(this.login_btn);
             this.Controls.Add(this.confirm_password_txt);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);
@@ -313,7 +300,7 @@
             this.Controls.Add(this.dob_txt);
             this.Controls.Add(this.name_txt);
             this.Controls.Add(this.registration_btn);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form3";
             this.Text = "Registration";
             this.ResumeLayout(false);
@@ -338,7 +325,6 @@
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.TextBox confirm_password_txt;
-        private System.Windows.Forms.Button login_btn;
         private System.Windows.Forms.Button back_btn;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.TextBox gender_panel;

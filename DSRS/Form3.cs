@@ -58,7 +58,6 @@ namespace DSRS
             if (string.IsNullOrWhiteSpace(gender))
             {
                 MessageBox.Show("Please enter your gender");
-                gender_panel.Focus();
                 return;
             }
 
@@ -101,6 +100,20 @@ namespace DSRS
             {
                 MessageBox.Show("Password does not match");
                 confirm_password_txt.Focus();
+                return;
+            }
+
+            if (!Utility.Validity.IsEmailValid(email))
+            {
+                MessageBox.Show("Invalid Email");
+                email_txt.Focus();
+                return;
+            }
+
+            if (!Utility.Validity.IsPhoneNumberValid(phoneNumber))
+            {
+                MessageBox.Show("Invalid Phone number");
+                number_txt.Focus();
                 return;
             }
 
